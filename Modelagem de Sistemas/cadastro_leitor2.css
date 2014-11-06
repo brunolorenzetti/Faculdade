@@ -1,0 +1,37 @@
+body {
+	background: #4682B4;
+	font-family: "Lucida Grande," "Lucida Sans Unicode", Verdana, sans-serif;
+	line-height: 1.6;
+}
+
+.container {
+	margin: 0 auto;
+	width: 960px;
+}
+
+.footer {
+	font-size: 12px;
+	text-align: center;
+}
+
+.sidenote {
+	background-color: #B0C4DE;
+	border: 1px solid #708090;
+	float: right;
+	padding: 10px;
+	width: 260px;
+}
+
+.sidenote h3 {
+	font-size: 14px;
+	margin-top: 0;
+}
+
+.sidenote ol {
+	font-size: 12px;
+}
+
+.places {
+	float: left;
+	width: 660px;
+}
